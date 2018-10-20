@@ -1,0 +1,19 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "- ali_message\r - ex_email_send\r - docx_generate\r - node_sqlinit",
+  "main": "app.js",
+  "dependencies": {
+    "@alicloud/sms-sdk": "^1.1.6",
+    "cheerio": "^1.0.0-rc.2",
+    "nodemailer": "^4.6.8",
+    "officegen": "^0.4.7",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
